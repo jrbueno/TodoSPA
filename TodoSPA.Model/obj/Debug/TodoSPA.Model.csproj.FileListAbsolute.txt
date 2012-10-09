@@ -1,0 +1,5 @@
+C:\Dev\VS2010\TodoSPA\TodoSPA.Model\bin\Debug\TodoSPA.Model.dll
+C:\Dev\VS2010\TodoSPA\TodoSPA.Model\bin\Debug\TodoSPA.Model.pdb
+C:\Dev\VS2010\TodoSPA\TodoSPA.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\VS2010\TodoSPA\TodoSPA.Model\obj\Debug\TodoSPA.Model.dll
+C:\Dev\VS2010\TodoSPA\TodoSPA.Model\obj\Debug\TodoSPA.Model.pdb
