@@ -1,0 +1,10 @@
+C:\Dev\VS2010\TodoSPA\TodoSPA.Data\bin\Debug\TodoSPA.Data.dll
+C:\Dev\VS2010\TodoSPA\TodoSPA.Data\bin\Debug\TodoSPA.Data.pdb
+C:\Dev\VS2010\TodoSPA\TodoSPA.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\VS2010\TodoSPA\TodoSPA.Data\obj\Debug\TodoSPA.Data.dll
+C:\Dev\VS2010\TodoSPA\TodoSPA.Data\obj\Debug\TodoSPA.Data.pdb
+C:\Dev\VS2010\TodoSPA\TodoSPA.Data\bin\Debug\TodoSPA.Data.dll.config
+C:\Dev\VS2010\TodoSPA\TodoSPA.Data\bin\Debug\EntityFramework.dll
+C:\Dev\VS2010\TodoSPA\TodoSPA.Data\bin\Debug\TodoSPA.Model.dll
+C:\Dev\VS2010\TodoSPA\TodoSPA.Data\bin\Debug\TodoSPA.Model.pdb
+C:\Dev\VS2010\TodoSPA\TodoSPA.Data\bin\Debug\EntityFramework.xml

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoSPA.Web", "TodoSPA.Web\TodoSPA.Web.csproj", "{A164C23F-166E-48EA-B7F9-7FC5B667025A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoSPA.Model", "TodoSPA.Model\TodoSPA.Model.csproj", "{60B672D8-CE8E-4765-ACD6-FA8A9A21426D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoSPA.Data", "TodoSPA.Data\TodoSPA.Data.csproj", "{1516235D-F332-4C91-B2C1-86EF1BDEF6F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A164C23F-166E-48EA-B7F9-7FC5B667025A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A164C23F-166E-48EA-B7F9-7FC5B667025A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A164C23F-166E-48EA-B7F9-7FC5B667025A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A164C23F-166E-48EA-B7F9-7FC5B667025A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60B672D8-CE8E-4765-ACD6-FA8A9A21426D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B672D8-CE8E-4765-ACD6-FA8A9A21426D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B672D8-CE8E-4765-ACD6-FA8A9A21426D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B672D8-CE8E-4765-ACD6-FA8A9A21426D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1516235D-F332-4C91-B2C1-86EF1BDEF6F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1516235D-F332-4C91-B2C1-86EF1BDEF6F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1516235D-F332-4C91-B2C1-86EF1BDEF6F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1516235D-F332-4C91-B2C1-86EF1BDEF6F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
