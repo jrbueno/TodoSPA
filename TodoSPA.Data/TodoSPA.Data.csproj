@@ -46,13 +46,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EFRepo.cs" />
-    <Compile Include="IRepo.cs" />
-    <Compile Include="IRepoProvider.cs" />
-    <Compile Include="ITodoUoW.cs" />
+    <Compile Include="Contracts\IRepo.cs" />
+    <Compile Include="Contracts\IRepoProvider.cs" />
+    <Compile Include="Contracts\ITodoUoW.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RepoFactories.cs" />
     <Compile Include="RepoProvider.cs" />
-    <Compile Include="SampleData.cs" />
+    <Compile Include="SampleData\SampleData.cs" />
     <Compile Include="TodoDbContext.cs" />
     <Compile Include="TodoUoW.cs" />
   </ItemGroup>

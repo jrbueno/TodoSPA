@@ -15,6 +15,10 @@ namespace TodoSPA.Data
         public TodoUoW(IRepoProvider provider)
         {
             DbContext = new TodoDbContext();
+            DbContext.Configuration.ProxyCreationEnabled = false;
+            DbContext.Configuration.LazyLoadingEnabled = false;
+            DbContext.Configuration.ValidateOnSaveEnabled = false;
+
             provider.DbContext = DbContext;
             RepoProvider = provider;
         }

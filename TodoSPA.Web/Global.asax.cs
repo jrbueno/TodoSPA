@@ -21,6 +21,9 @@ namespace TodoSPA.Web
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+
+
+            IocConfig.RegisterIoc(GlobalConfiguration.Configuration);
         }
     }
 }

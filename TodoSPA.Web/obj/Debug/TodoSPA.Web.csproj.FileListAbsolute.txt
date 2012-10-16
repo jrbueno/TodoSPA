@@ -38,3 +38,46 @@ C:\Dev\VS2010\TodoSPA\TodoSPA.Web\bin\TodoSPA.Data.dll
 C:\Dev\VS2010\TodoSPA\TodoSPA.Web\bin\TodoSPA.Model.dll
 C:\Dev\VS2010\TodoSPA\TodoSPA.Web\bin\TodoSPA.Data.pdb
 C:\Dev\VS2010\TodoSPA\TodoSPA.Web\bin\TodoSPA.Model.pdb
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\TodoSPA.Web.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\TodoSPA.Web.pdb
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\Antlr3.Runtime.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\EntityFramework.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\Newtonsoft.Json.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Net.Http.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Net.Http.Formatting.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Net.Http.WebRequest.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Web.Helpers.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Web.Http.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Web.Http.WebHost.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Web.Mvc.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Web.Optimization.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Web.Providers.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Web.Razor.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Web.WebPages.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Web.WebPages.Razor.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\TodoSPA.Data.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\TodoSPA.Model.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\WebGrease.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\TodoSPA.Data.pdb
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\TodoSPA.Model.pdb
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\EntityFramework.xml
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\Newtonsoft.Json.xml
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Net.Http.xml
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Net.Http.Formatting.xml
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Net.Http.WebRequest.xml
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Web.Helpers.xml
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Web.Http.xml
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Web.Http.WebHost.xml
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Web.Mvc.xml
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Web.Razor.xml
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Web.WebPages.xml
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\System.Web.WebPages.Razor.xml
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\obj\Debug\TodoSPA.Web.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\obj\Debug\TodoSPA.Web.pdb
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\Ninject.dll
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\Ninject.pdb
+C:\Dev\GitHub Repos\TodoSPA\TodoSPA.Web\bin\Ninject.xml
