@@ -14,7 +14,9 @@ namespace TodoSPA.Data
         public EFRepo(DbContext dbcontext)
         {
             if (dbcontext == null)
-                throw new ArgumentException("DbContext");            
+                throw new ArgumentException("DbContext");
+            DbContext = dbcontext;
+            DbSet = DbContext.Set<T>();
         }
 
         public IQueryable<T> GetAll()
