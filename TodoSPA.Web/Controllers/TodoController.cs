@@ -23,16 +23,13 @@ namespace TodoSPA.Web.Controllers
         // GET api/todo
         public IEnumerable<Todo> Get()
         {
-            Uow.Todos.Add(new Todo { Title= "Test", Description ="blah"});
-            Uow.Commit();
-
-            return Uow.Todos.GetAll();
+            return Uow.Todos.GetAll().OrderBy(t => t.CreatedOn);
         }
 
         // GET api/todo/5
-        public string Get(int id)
-        {
-            return "value";
+        public Todo Get(int id)
+        {           
+            return Uow.Todos.GetById(id);
         }
 
         // POST api/todo
