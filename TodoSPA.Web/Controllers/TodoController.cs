@@ -32,19 +32,24 @@ namespace TodoSPA.Web.Controllers
             return Uow.Todos.GetById(id);
         }
 
-        // POST api/todo
-        public void Post(string value)
+        public HttpResponseMessage Post(Todo item)
         {
+            Uow.Todos.Add(item);
+            Uow.Commit();
+
+            var response = Request.CreateResponse(HttpStatusCode.Created, item);
+            response.Headers.Location = new Uri(Url.Link(RouteConfig.ControllerAndId, new { id = item.Id}));
+
+            return response;
         }
 
-        // PUT api/todo/5
-        public void Put(int id, string value)
-        {
-        }
 
-        // DELETE api/todo/5
-        public void Delete(int id)
+        // Updates a todo item
+        public HttpResponseMessage Put(Todo item)
         {
-        }
+            Uow.Todos.Update(item);
+            Uow.Commit();
+            return new HttpResponseMessage(HttpStatusCode.NoContent);
+        }        
     }
 }

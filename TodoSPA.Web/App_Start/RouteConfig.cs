@@ -10,14 +10,29 @@ namespace TodoSPA.Web
 {
     public class RouteConfig
     {
+        public static string ControllerOnly = "ApiControllerOnly";
+        public static string ControllerAndId = "ApiControllerAndIntegerId";
+        public static string ControllerAction = "ApiControllerAction";
+
         public static void RegisterRoutes(RouteCollection routes)
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
             routes.MapHttpRoute(
-                name: "DefaultApi",
+                name: ControllerAndId,
                 routeTemplate: "api/{controller}/{id}",
-                defaults: new { id = RouteParameter.Optional }
+                defaults: null,
+                constraints: new { id = @"^\d+$" } // id must be all digits
+            );
+
+            routes.MapHttpRoute(
+                name: ControllerOnly,
+                routeTemplate: "api/{controller}"
+            );
+
+            routes.MapHttpRoute(
+                name: ControllerAction,
+                routeTemplate: "api/{controller}/{action}"
             );
 
             routes.MapRoute(

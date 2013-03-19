@@ -24,6 +24,8 @@ namespace TodoSPA.Web
 
 
             IocConfig.RegisterIoc(GlobalConfiguration.Configuration);
+
+            GlobalConfig.CustomizeConfig(GlobalConfiguration.Configuration);
         }
     }
 }
